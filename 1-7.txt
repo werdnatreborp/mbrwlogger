@@ -1,0 +1,6 @@
+ReadMe
+
+2017-09-09 - Modified for changed path to x:\ProgramData\Malwarebyes 
+
+2017-06-04 - Modified logger script to exclude ARW_ACTION_ALLOWMEPS
+           - Changed script to optionally install .EXE version, if in package

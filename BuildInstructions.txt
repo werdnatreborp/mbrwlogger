@@ -1,0 +1,10 @@
+1. Change directory into this directory
+
+2. MAPDRIVE.CMD <enter>
+   (Creates a drive z: so that the SED files do not need re-editing each time)
+
+3. Z: <enter>
+
+4. Build1.cmd <enter>
+
+
